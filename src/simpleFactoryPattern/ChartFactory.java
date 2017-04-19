@@ -1,5 +1,6 @@
 package simpleFactoryPattern;
 
+// 工厂
 public class ChartFactory {
 //	// 静态工厂方法
 //	public static Chart getChart(String type) {
