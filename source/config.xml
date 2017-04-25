@@ -2,5 +2,6 @@
 <config>  
     <chartType>histogram</chartType>
     <chartType>pie</chartType>
-    <chartType>line</chartType>  
+    <chartType>line</chartType> 
+    <className>FileLoggerFactory</className> 
 </config>
