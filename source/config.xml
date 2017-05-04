@@ -4,4 +4,5 @@
     <chartType>pie</chartType>
     <chartType>line</chartType> 
     <className>FileLoggerFactory</className> 
+    <class>abstractFactoryPattern_3.SpringSkinFactory</class>
 </config>
