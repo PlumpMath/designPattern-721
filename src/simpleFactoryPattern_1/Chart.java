@@ -1,4 +1,4 @@
-package simpleFactoryPattern;
+package simpleFactoryPattern_1;
 
 public interface Chart {
 

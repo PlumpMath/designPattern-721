@@ -1,4 +1,4 @@
-package factoryMethodPattern;
+package factoryMethodPattern_2;
 
 import javax.xml.parsers.*;  
 import org.w3c.dom.*;  

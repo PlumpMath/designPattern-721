@@ -1,4 +1,4 @@
-package simpleFactoryPattern;
+package simpleFactoryPattern_1;
 
 import javax.xml.parsers.*;  
 import org.w3c.dom.*;  

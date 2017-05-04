@@ -1,4 +1,4 @@
-package factoryMethodPattern;
+package factoryMethodPattern_2;
 
 public class FileLoggerFactory implements LoggerFactory{
 

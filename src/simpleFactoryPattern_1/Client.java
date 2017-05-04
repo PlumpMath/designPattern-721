@@ -1,4 +1,4 @@
-package simpleFactoryPattern;
+package simpleFactoryPattern_1;
 
 import java.util.ArrayList;
 import java.util.HashMap;
